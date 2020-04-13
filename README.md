@@ -1,4 +1,4 @@
 # Federica Ress
 
-##Progetti:
+## Progetti:
   - [resscientist](http://federicaress.github.io/resscientist)
